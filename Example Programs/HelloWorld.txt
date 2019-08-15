@@ -1,0 +1,2 @@
+Echo Hello world.
+Wait

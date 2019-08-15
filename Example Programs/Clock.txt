@@ -1,0 +1,6 @@
+Backcolor Blue
+Time
+Date
+Delay 500
+Clear
+Softreset
