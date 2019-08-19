@@ -1,0 +1,8 @@
+//Picks random number 1-10. You can change this to your liking.
+Random:
+1
+10
+//Wait until key is pressed
+Wait
+//Restarts program
+Softreset
