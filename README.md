@@ -1,2 +1,2 @@
 # Important News
-This page is now deprecated. To get the latest version of OctoScript, please visit https://github.com/JohnSpahr/OctoScript.
+We are no longer working on this project. This page is up for historical reasons.
