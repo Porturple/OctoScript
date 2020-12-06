@@ -1,6 +1,0 @@
-C:\Users\John Spahr\source\repos\Batch++\Batch++\bin\Debug\Batch++.exe
-C:\Users\John Spahr\source\repos\Batch++\Batch++\bin\Debug\Batch++.pdb
-C:\Users\John Spahr\source\repos\Batch++\Batch++\obj\Debug\Batch++.csprojAssemblyReference.cache
-C:\Users\John Spahr\source\repos\Batch++\Batch++\obj\Debug\Batch++.csproj.CoreCompileInputs.cache
-C:\Users\John Spahr\source\repos\Batch++\Batch++\obj\Debug\Batch++.exe
-C:\Users\John Spahr\source\repos\Batch++\Batch++\obj\Debug\Batch++.pdb
